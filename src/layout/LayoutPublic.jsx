@@ -13,7 +13,6 @@ const LayoutPublic = () => {
         )}
         <Outlet></Outlet>
       </main>
-      <footer className="container text-center">Footer</footer>
     </>
   );
 };
